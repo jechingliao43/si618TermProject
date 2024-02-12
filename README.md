@@ -1,2 +1,5 @@
 # si618TermProject
 Term Project Files from FA23 SI618 in University of Michigan
+Our project aims to dissect the relationships between racial and gender diversity, fields of study, and alumni outcomes in US higher education, providing actionable insights for institutions committed to Diversity, Equity, and Inclusivity (DEI). As a group of international students, we seek to reveal patterns in racial and gender diversity across institutions, examining correlations with academic disciplines and degree levels. For example, we would like to explore stereotypes like higher Asian student percentages in engineering programs. Additionally, we intend to investigate whether institutions fostering diversity have alumni with better salary potentials. Through statistical analysis, our project results can be used to inform recruitment strategies and contribute to the broader conversation on cultivating inclusive academic environments.
+
+FieldOfStudyData1718_1819_PP.csv is too large for GitHub, please download from https://collegescorecard.ed.gov/data/?fbclid=IwAR2Z_LfBwuh2tXLfN0pn9zTT58ZR-Ihj8nILSrFqIyFe1Au8jXsEAhrmf8g
